@@ -14,3 +14,5 @@ resource "aws_instance" "web" {
     Name = "Terraform1"
   }
 }
+
+# changes for test and git pull
